@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "4333-0053-0B1A-5860-0212-8FB8-4720-9F48",
+  "customer": "Vĩnh Phúc",
+  "plan": "1m",
+  "issued": 1794218331,
+  "expires": 1796810331,
+  "id": "d4ef3531-6c01-4b92-8135-722e9e400611"
+ },
+ "signature": "zHNxIBwY0dNrAC0BXg0lc0SHjFfmsRHme8eVUqumCEPOuzfyBEsjzyCGY6PI9MnEAm+aOy1s85fatK6p6qjYCQ=="
+}
