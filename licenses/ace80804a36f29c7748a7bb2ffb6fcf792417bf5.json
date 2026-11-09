@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "B576-4F62-0441-3D82-6656-3D31-B634-8694",
+  "customer": "Nhủ PC",
+  "plan": "forever",
+  "issued": 1794213092,
+  "expires": null,
+  "id": "bc2a1999-bcd1-42cc-9678-49eed937db58"
+ },
+ "signature": "EA2SuDfNGUtmhDIK9TJeRY83VFmFx3wqysR1BMTh6Jm5bpTOIJraFJ0ZeYC0f9wc4fPZoYzrkTlf7mg92odDBA=="
+}
