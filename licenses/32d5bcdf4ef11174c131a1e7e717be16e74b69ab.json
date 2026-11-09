@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "B783-9052-8112-989E-3688-B83C-91FF-80D9",
+  "customer": "Anh Quân",
+  "plan": "1y",
+  "issued": 1794206706,
+  "expires": 1825742706,
+  "id": "5c4a7635-0501-4950-94df-5d7e3eccef99"
+ },
+ "signature": "h0P7E+9tEN+HYFxDYqZuYWGJHapNt2IbCHA7q01EbP866OW2FvA5ALPHXsAiIvq7DCI0tBSf9vobj7CJwC9dDA=="
+}
