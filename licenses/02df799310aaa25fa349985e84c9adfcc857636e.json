@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "EA49-FE26-9BA4-0116-71C2-78CD-48DB-A636",
+  "customer": "Phạm Thái",
+  "plan": "forever",
+  "issued": 1794233764,
+  "expires": null,
+  "id": "1b33530b-4875-45dd-8811-6ba88eb8af9d"
+ },
+ "signature": "LF+RvTACl8P4LDx7F55+4CGz4QTXyjKOyc3/uEWyw4QTYvxurU975kca9WM97EAljKMuvXbZIdUWoZ5mP5dQCg=="
+}
