@@ -2,12 +2,9 @@
  "payload": {
   "version": 1,
   "product": "td.network.visualizer",
+  "type": "revoke",
   "machine": "1897-2001-8173-3C00-CEFC-F5EA-1857-4114",
-  "customer": "Mỹ Ngọc",
-  "plan": "3m",
-  "issued": 1794218083,
-  "expires": 1802166883,
-  "id": "5a683ad7-be3a-4b78-8e16-b794f1446bd2"
+  "issued": 1794218135
  },
- "signature": "+NPXt6G3dCXK6W01pz9FToMkxrEz/yWBDNorU+pBCJE30fB+Cfc5CofNPctuzK4dTB3dme8k8qQyM+npih9YDQ=="
+ "signature": "6FLBAnG16pmDM2qFYLaT+MGjvWNmxgZGDWfA7+BJ6WaC+9Gj21V2gdqXtbLSknfwsbwxj5JZCucTqBML4K06DA=="
 }
