@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "8537-121A-8505-F32C-3317-7842-BB48-48A6",
+  "customer": "Trần Văn Xuân",
+  "plan": "forever",
+  "issued": 1794475102,
+  "expires": null,
+  "id": "c6c29edf-2425-45a5-9055-b2dda287c118"
+ },
+ "signature": "1xDPoMEOtjxwFxydKpDYJIz+1BMfV5P7dHEgphxle7Tm+tGamQyaYCyTXGKRlPhq/LLy3uMsIHwZT5RlA8QNAA=="
+}
