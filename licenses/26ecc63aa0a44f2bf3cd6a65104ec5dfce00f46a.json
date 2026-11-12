@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "1D9C-DB2A-DE6C-E8EF-20D1-BEAC-F7EB-3C89",
+  "customer": "Văn Chức",
+  "plan": "forever",
+  "issued": 1794474680,
+  "expires": null,
+  "id": "1e278d42-4100-4518-b582-01dd44d06525"
+ },
+ "signature": "KEzJ3+JgHNC+mTbQWu09HOd74HunvjGkKafYHkl9SNHoMXVlxW3yFbJBA2vjHXLDZqjRE5PJy7jsu6Xa9ToJDQ=="
+}
