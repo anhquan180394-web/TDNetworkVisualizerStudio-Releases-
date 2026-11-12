@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "2E8F-7E3D-D15B-05D8-BF7C-04CF-B277-39F8",
+  "customer": "Nguyễn Văn Tuấn",
+  "plan": "forever",
+  "issued": 1794474957,
+  "expires": null,
+  "id": "0788f916-35cd-4acf-b82d-43672e0d0ae2"
+ },
+ "signature": "9ci9r1otu7b52Vrc/DpyBoqbZ5SXHU0+D82N5FIG9zlNDCmQLgCNHZCgbwmSlVzB3AvqqSpk5BFSzXaP+ToKBg=="
+}
