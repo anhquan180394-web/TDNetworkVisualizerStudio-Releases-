@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "1240-314E-D6BA-4864-1AF3-9664-7E6C-45E5",
+  "customer": "Nguyễn Văn Kiên",
+  "plan": "forever",
+  "issued": 1794475526,
+  "expires": null,
+  "id": "d16c0289-7434-4382-ae11-cb2839c2add9"
+ },
+ "signature": "uTsJlzL8FPx3uPv86Kno1FzmgSeyqBM013HDXFgCdoCduQmQ9dsIFWEKHlQP0y8q42rHnKn11mF92Gm1fbz/DA=="
+}
