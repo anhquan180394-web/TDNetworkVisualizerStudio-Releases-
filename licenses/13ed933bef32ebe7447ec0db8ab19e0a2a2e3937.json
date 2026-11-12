@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "0D9F-27DA-1468-1EF7-8FD7-A8DD-21C7-1469",
+  "customer": "Trần Tiến Thành",
+  "plan": "forever",
+  "issued": 1794474934,
+  "expires": null,
+  "id": "ccaf5582-ece3-46bb-beef-051cecc86f2f"
+ },
+ "signature": "C6TK2t47ltN5naxL8K6QjCCGacMrKYO6TsTyYof8OByURB20Uc4ZDY8Bj3FYq1CVTT2FcW4O1fWrrQS7E0AjAQ=="
+}
