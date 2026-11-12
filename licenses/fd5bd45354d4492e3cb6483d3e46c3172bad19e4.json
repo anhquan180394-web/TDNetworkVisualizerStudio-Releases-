@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "5554-21D6-E75D-F910-2ABC-3EBB-4AEB-87C4",
+  "customer": "Nguyễn Hồng Phi",
+  "plan": "forever",
+  "issued": 1794474915,
+  "expires": null,
+  "id": "a8abcf4c-a106-413c-a338-7366cf0411b4"
+ },
+ "signature": "b5AQrqvgFhZn4LVrVPXSx10J+AvahUjp0+ObtH1UHjEDimLwIP/uag6LSQpKj1FTWLHIhY64IR05RAXcldOABA=="
+}
