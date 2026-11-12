@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "06DA-2C1B-0811-90C4-E7AB-68E8-6478-A964",
+  "customer": "Hoài Nam",
+  "plan": "forever",
+  "issued": 1794474590,
+  "expires": null,
+  "id": "1e478eb0-e76a-4f22-a6d6-80e1f232e9fb"
+ },
+ "signature": "4N62PtphIqCpv363W7WNsxbekdYZEMvufRA9mi+4kbeaNAkZ/cTApqOU+ak4Ek0QHYQJupaKRZ5RKBHFueKdCw=="
+}
