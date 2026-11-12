@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "563B-D47F-0BDB-96F3-FA55-5908-9937-EC0D",
+  "customer": "Vũ Việt Tiến",
+  "plan": "forever",
+  "issued": 1794475440,
+  "expires": null,
+  "id": "6adabf38-de01-49cc-ac97-01b37a81f27c"
+ },
+ "signature": "lAbIlCJ0T2q0c+A01wJvvu16IwVLZ41iS9Db383yA7RjTyyPNdIssnTxjuzpvUZzKD0OnZkg9jxIFinrXOkCCQ=="
+}
