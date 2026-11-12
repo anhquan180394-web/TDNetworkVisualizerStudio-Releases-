@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "453F-A7C4-F314-E357-D887-6236-4C1B-2EA1",
+  "customer": "Đỗ Quang Huy",
+  "plan": "forever",
+  "issued": 1794475463,
+  "expires": null,
+  "id": "98e21817-d4f7-4f36-bea5-806804ad9ede"
+ },
+ "signature": "30zwXDmUO8vDJwK2xtkF53FQhLljP9s5FRF0RFaxSD0Pen0Rgk7EcUAA5I9jbc6ZTEE+YUb+Ah6n6YLNqVw2Cw=="
+}
