@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "A389-D442-AECE-84FA-1E45-989A-1F75-C5A4",
+  "customer": "Trương Thị Huyền Trang",
+  "plan": "forever",
+  "issued": 1794475551,
+  "expires": null,
+  "id": "2baddd02-6ddc-4891-96ee-3f9002678874"
+ },
+ "signature": "QpELiGgRAqrG2JSESgoQsrHmhRFkslOn3pCWe2+OphmStzflMOksiSRKGJghzF+CMgTxUzWWOZ2alKviQi4wDQ=="
+}
