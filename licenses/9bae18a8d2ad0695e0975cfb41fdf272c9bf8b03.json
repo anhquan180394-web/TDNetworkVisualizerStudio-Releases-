@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "DE26-2268-47D1-C607-43B0-B176-A6C7-3DA0",
+  "customer": "Đặng Minh Hiếu",
+  "plan": "forever",
+  "issued": 1794475178,
+  "expires": null,
+  "id": "e29241a9-8008-4bd6-84ff-7f359c9b6876"
+ },
+ "signature": "9rT/b53uSFnPjoMrS22UaIdnZ2OM5xY/DOB9/O5FPrQ5rgvqiDhMK7VWJl/jK8DD8JMm7zalumTxMjbqTKs9AA=="
+}
