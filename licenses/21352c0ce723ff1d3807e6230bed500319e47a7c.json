@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "C389-78F0-6B09-16EE-B92D-AFB8-6C4D-86C8",
+  "customer": "Vũ Văn Thủy",
+  "plan": "forever",
+  "issued": 1794475348,
+  "expires": null,
+  "id": "f82e9d1f-9f14-454c-b151-291aab8caad4"
+ },
+ "signature": "pp8BFJ5H/FXTAk4fd/SOuT1tHau7ffZHzqck4WOciXJh7e58DB4wClvx8WPQ4TPZoBt5iEFpN0ri6exuFCLzAw=="
+}
