@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "8A7E-2EA4-291A-37A4-BFFF-1E60-D3C1-D187",
+  "customer": "Hoàng Trung Hiếu",
+  "plan": "forever",
+  "issued": 1794475148,
+  "expires": null,
+  "id": "9ce03396-70fe-4b45-ab93-48c15737e1fe"
+ },
+ "signature": "wijUr2YS4R1AEAhJmLgOP7Q7pQmscKtNd+Z0wmU9HLttyYaBw7RokJT72uCkZ37SYarE5uQYQo0D+S3+W9ncDg=="
+}
