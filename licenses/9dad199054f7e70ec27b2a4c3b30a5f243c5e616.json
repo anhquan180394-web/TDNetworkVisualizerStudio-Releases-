@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "D3DB-D597-9A3D-86A0-D4EE-2099-2031-22F0",
+  "customer": "Vũ Gia Vương",
+  "plan": "forever",
+  "issued": 1794475573,
+  "expires": null,
+  "id": "71da39b8-8809-4d9a-99a1-afd70794a685"
+ },
+ "signature": "8rw9xf7HKavdvGw/9M5VRH9K7HtYe+Elqb+ydGmqvZnmVGeVtEE3fO6F/Y4b41meN0CTOwe+ySvUNFxQZndkCA=="
+}
