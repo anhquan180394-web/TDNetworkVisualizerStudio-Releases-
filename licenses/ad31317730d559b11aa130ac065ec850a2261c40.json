@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "769D-67CB-B787-2319-7047-46DB-1655-4B68",
+  "customer": "Phạm Đức Duy",
+  "plan": "forever",
+  "issued": 1794475491,
+  "expires": null,
+  "id": "6d94ce46-2089-4e07-981f-e7db4577fe64"
+ },
+ "signature": "tzX4q/5U/Ra0RggIv9tF61BbLmSQ8B9mMgFM26Z8fY9dYKskY3s99yLXo+mfq9Ju0lV+3rA0rW/q4THJKiL2Cw=="
+}
