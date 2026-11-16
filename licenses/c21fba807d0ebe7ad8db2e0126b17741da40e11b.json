@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "FE74-40CD-ABA8-91B1-65CB-C554-D30A-AC83",
+  "customer": "Đặng Thanh Hiền",
+  "plan": "forever",
+  "issued": 1794838755,
+  "expires": null,
+  "id": "da6ea58e-7a04-497a-bffc-391124a8fc4d"
+ },
+ "signature": "6rHTJ5qANwwPRz4PLuswLBl+6ytXecQCCIj3GE7iHz3TSFQyOQ57wg+VSdRGBA8WF0ShCkJVbhVrnZ6zcIwPDw=="
+}
