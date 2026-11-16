@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "362A-B064-B9D5-EEF2-EBF1-F079-3767-76B5",
+  "customer": "Nguyễn Văn Công",
+  "plan": "forever",
+  "issued": 1794838733,
+  "expires": null,
+  "id": "89bb99b1-bda9-412d-81fd-dd5b03b1f988"
+ },
+ "signature": "RVu8QTk0SX23PKWnNtbA4k7WjQavVPfxh94hcfdUohpFRG3GC08uxgbQ2ZI/KqAYbKNeBc1qIFJlkwin5hGIDA=="
+}
