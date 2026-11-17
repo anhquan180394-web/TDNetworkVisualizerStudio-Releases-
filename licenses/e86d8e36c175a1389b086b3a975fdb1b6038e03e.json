@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "23A5-9378-1942-F324-F166-25D8-4CF3-DC95",
+  "customer": "Dũng Con",
+  "plan": "forever",
+  "issued": 1794898109,
+  "expires": null,
+  "id": "4ab10d6d-83c5-479e-b1f1-e6a662def2d8"
+ },
+ "signature": "5+qAZOw20u9yJS8gzeJppezuZFflY2uREurWVCEvfsHQ626Sg8DLP0msjvKTlOajEvGh8+uYK958Q3HgMX62Dg=="
+}
