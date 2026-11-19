@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "8A3E-33C3-C787-9AD6-6A96-A78C-23A6-96FF",
+  "customer": "DJ KNV",
+  "plan": "forever",
+  "issued": 1795085253,
+  "expires": null,
+  "id": "8e391491-05b4-4fe6-a820-3362a1c15ad2"
+ },
+ "signature": "OIy1ift/IAmzjb0pSCwP1y7yJFux1Q9CoHhDNpHceNrzwS9A1Xl5+exPwCupRHBjz8dfZPX5AN10ZajctIaHDw=="
+}
