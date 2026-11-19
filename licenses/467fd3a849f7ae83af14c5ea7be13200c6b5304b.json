@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "954C-CC3D-CFE1-7A8D-9A5E-1CCD-7B67-BB49",
+  "customer": "HuyD",
+  "plan": "forever",
+  "issued": 1795056008,
+  "expires": null,
+  "id": "c49fe6cf-b991-4f08-a24c-5e77c3ebf6cf"
+ },
+ "signature": "vkV+pecMbVj29RTEHFHrZeKfp+h/S8ACq/dmdX/5QU8l43WAsVepTH4znBoUJM5QcrsOMdxGZLKL3IZa9vq1AQ=="
+}
