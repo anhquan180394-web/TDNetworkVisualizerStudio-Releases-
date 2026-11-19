@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "F69C-44E6-E5A6-D753-9806-37F5-C172-0E31",
+  "customer": "Phan Thành Đạt",
+  "plan": "forever",
+  "issued": 1795058099,
+  "expires": null,
+  "id": "f191928d-abe4-49ee-b6e7-9168f63dc84e"
+ },
+ "signature": "t/D2krTGLvTMXpcJLV1fzwwdk1T6zienmLRVn6oihho6hsgF5BKipdQva7mV2fE/qfh8nVuipurs31Yc7VV3Aw=="
+}
