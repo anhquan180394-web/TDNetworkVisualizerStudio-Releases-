@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "4E99-B26A-8B33-DB7C-C50A-7E16-5F33-CDCA",
+  "customer": "YDong Soo",
+  "plan": "1y",
+  "issued": 1795678761,
+  "expires": 1827214761,
+  "id": "8e769c02-5ea3-4efd-a26f-1779c69c93a2"
+ },
+ "signature": "S01YndJdFrvBrIsXBuU+w63FGuHTMCZv2vql7ADzpAh1Sy4wVcUDnSWQNv3lC/4eKCI+5Vs0qmEF13rDINlkBw=="
+}
