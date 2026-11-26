@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "8931-C0EF-D7EC-FC7C-F0CB-3E0E-4D7A-6728",
+  "customer": "Nguyễn Công Minh",
+  "plan": "forever",
+  "issued": 1795683648,
+  "expires": null,
+  "id": "622ed663-6fa1-4ddc-b83a-91d26e8245e8"
+ },
+ "signature": "wLlZrrMLxitEPBGkH/AF/zHUteNw/3wWn422lEmNSW+jXfjzvxWcD5pnSamnbmCPU+yurcTcvRHafMo2rXoWAg=="
+}
