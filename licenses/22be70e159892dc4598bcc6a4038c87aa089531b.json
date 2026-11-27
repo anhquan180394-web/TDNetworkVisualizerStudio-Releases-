@@ -1,0 +1,13 @@
+{
+ "payload": {
+  "version": 1,
+  "product": "td.network.visualizer",
+  "machine": "FF53-2C87-4B9E-CA7B-FD60-C179-AC6B-C568",
+  "customer": "Chinh PC1",
+  "plan": "forever",
+  "issued": 1795748574,
+  "expires": null,
+  "id": "5fd3ae09-50f7-40ff-a241-b404b37be95c"
+ },
+ "signature": "Yf34h0/J+ucZhvPwzSsJU4uiWU3QD91tPHRFDz3Ex2AI9KVQfs9nXBRh/mvVMeNsVHbhxZLX5GBUMPO7cJ3GBQ=="
+}
